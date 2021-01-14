@@ -1,0 +1,13 @@
+node_modules
+.vscode-upload.json
+test/
+dev/
+dist/
+dist*
+.idea/
+*.swp
+/.vscode
+/mock/.cache/
+.history/
+.DS_Store
+*/.DS_Store
